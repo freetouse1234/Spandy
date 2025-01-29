@@ -21,4 +21,6 @@ int main(){
 }
 
 //freetouse1234
-//spandy007!
+//freetouse123!
+
+git remote add origin https://[TOKEN]@github.com/[REPO-OWNER]/[REPO-NAME]
