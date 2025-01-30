@@ -25,3 +25,4 @@ int main(){
 
 git remote remove origin
 git remote add origin https://[TOKEN]@github.com/[REPO-OWNER]/[REPO-NAME]
+token=  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
